@@ -1,0 +1,37 @@
+Here’s a concise and clear guide you can copy and save for deploying a web application using GitHub Pages:
+
+---
+
+### **Steps to Deploy a Web Application Using GitHub Pages**
+
+1. **Create a GitHub Repository**:
+   - Log in to [GitHub](https://github.com).
+   - Click **New Repository**.
+   - Name your repository (e.g., `my-web-app`).
+   - Set it to **Public**.
+   - Click **Create Repository**.
+
+2. **Add Your Web App Files**:
+   - Prepare your files (`index.html`, `styles.css`, `script.js`).
+   - In the GitHub repository, click **Add File > Upload Files**.
+   - Drag and drop your files into the upload area.
+   - Click **Commit Changes**.
+
+3. **Enable GitHub Pages**:
+   - Go to your repository's **Settings**.
+   - Scroll down to **Pages** in the left menu.
+   - Under "Branch," select `main` (or `master`) and click **Save**.
+   - GitHub will provide a URL (e.g., `https://username.github.io/my-web-app`).
+
+4. **Access Your Web Application**:
+   - Visit the URL provided by GitHub Pages to see your deployed site.
+
+---
+
+### **Notes**:
+- Any updates you push to the repository will automatically reflect on the live site.
+- The site will remain live as long as the repository exists and GitHub Pages is enabled.
+
+---
+
+Let me know if you need further help!
